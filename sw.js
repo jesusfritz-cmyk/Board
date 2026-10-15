@@ -1,4 +1,4 @@
-const CACHE_NAME = 'fz-board-hub-v2.1';
+const CACHE_NAME = 'fz-board-hub-v2.2';
 
 // Archivos esenciales del núcleo que se precargan al instalar
 const STATIC_ASSETS = [
